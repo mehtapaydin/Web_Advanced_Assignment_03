@@ -1,0 +1,18 @@
+{
+  "name": "web_advanced_assignment_3",
+  "version": "1.0.0",
+  "description": "Socket.io",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mehtapaydin",
+  "license": "ISC",
+  "dependencies": {
+    "app-root-path": "^2.0.1",
+    "express": "^4.15.2",
+    "express-favicon": "^2.0.0",
+    "pug": "^2.0.0-beta.12",
+    "socket.io": "^1.7.3"
+  }
+}
